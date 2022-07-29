@@ -1,3 +1,4 @@
 # XAIForSepsis
 Building and explaining Machine Learning Models for Sepsis Data
-![workflow 001](https://user-images.githubusercontent.com/33638942/181638865-3bfd5b45-b2c5-4b40-89bd-98e52a29f917.jpeg)
+
+![workflow 001](https://user-images.githubusercontent.com/33638942/181730143-49eb0517-b096-4823-b2fa-bd849a1ac2c7.jpeg)
